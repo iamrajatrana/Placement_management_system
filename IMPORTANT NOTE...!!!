@@ -1,0 +1,13 @@
+Rule 1:
+
+To run this project place all these files in a folder named "intern" without inverted commas i.e 
+Directory Structure should be :
+intern 
+  -application
+  -assets
+  -system and so on
+Now put this complete folder "intern" inside htdocs folder if you are using xampp.
+
+Rule 2:
+Create database in PHPmyadmin using file placement_system_database.sql
+
