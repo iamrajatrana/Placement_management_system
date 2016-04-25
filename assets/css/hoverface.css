@@ -1,0 +1,61 @@
+
+
+.principal
+{
+  width: 170px;
+  height: 170px;
+  background-color:#DD4545;
+  border-radius: 170px;
+  padding: 30px;
+  cursor: pointer;
+}
+.principal_petit
+{
+  width: 170px;
+  height: 170px;
+  background-color: #ffffff;
+  border-radius: 170px;
+  -webkit-transition:all 0.2s ease-in;
+  -moz-transition:all 0.2s ease-in;
+  -ms-transition:all 0.2s ease-in;
+  -o-transition:all 0.2s ease-in;
+  transition:all 0.2s ease-in;
+}
+.principal_petit:hover
+{
+  -webkit-transform: scale(1.1);
+  -webkit-transition:all 0.2s ease-in;
+  -moz-transform: scale(1.1);
+  -moz-transition:all 0.2s ease-in;
+  -ms-transform: scale(1.1);
+  -ms-transition:all 0.2s ease-in;
+  -o-transform: scale(1.1);
+  -o-transition:all 0.2s ease-in;
+  transform: scale(1.1);
+  transition:all 0.2s ease-in;
+}
+#image {
+  width: 170px;
+}
+.principal_img
+{
+  -webkit-transition:all 0.2s ease-in;
+  -moz-transition:all 0.2s ease-in;
+  -ms-transition:all 0.2s ease-in;
+  -o-transition:all 0.2s ease-in;
+  transition:all 0.2s ease-in;
+  
+}
+.principal_img:hover
+{
+  -webkit-transform: scale(0.8);
+  -webkit-transition:all 0.2s ease-in;
+  -moz-transform: scale(0.8);
+  -moz-transition:all 0.2s ease-in;
+  -ms-transform: scale(0.8);
+  -ms-transition:all 0.2s ease-in;
+  -o-transform: scale(0.8);
+  -o-transition:all 0.2s ease-in;
+  transform: scale(0.8);
+  transition:all 0.2s ease-in;
+}
