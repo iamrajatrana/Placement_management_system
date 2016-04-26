@@ -1,6 +1,7 @@
 # Placement_management_system
 
-Environment : PHP, SQL, HTML, CSS, JavaScript 
+Environment : PHP, SQL, HTML, CSS, JavaScript.
+
 Framework: CodeIgniter, Bootstrap
 
 This project is basically the placement portal of college. 
